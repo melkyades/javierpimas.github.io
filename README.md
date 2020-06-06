@@ -1,4 +1,4 @@
-# Cover Card landing page theme
+# Cover Card landing page theme 
 
 ## Quick set-up
 
